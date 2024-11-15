@@ -16,7 +16,6 @@
 		<module>../parent</module>
 		<module>../common</module>
 		<module>../modules</module>
-		<module>../web</module>
 		<module>../web-api</module>
 		<module>../web-fast</module>
 	</modules>
